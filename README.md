@@ -1,1 +1,1 @@
-# Multi-modal Product Recommendation System with LlaVA
+# Multi-modal Product Recommendation System with LLaVA
