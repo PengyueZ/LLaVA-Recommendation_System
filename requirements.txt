@@ -1,0 +1,10 @@
+pandas
+numpy
+torch
+transformers
+faiss-cpu
+fastapi
+uvicorn
+mlflow
+scikit-learn
+Pillow
